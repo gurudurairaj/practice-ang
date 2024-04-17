@@ -1,0 +1,23 @@
+
+.example-container{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.form-container{
+    width: 100 px; 
+    margin: 0 px auto; 
+    margin-top: 200 px;
+}
+
+.form-field{
+    display: block;
+    margin-top: 10px;
+}
